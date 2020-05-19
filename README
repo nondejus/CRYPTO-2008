@@ -20,3 +20,8 @@
 6 2 3 2    戲 theatrical play, show
 8 A D 6    論 debate; discuss; discourse
 8 F F 0    述 narrate, state, express
+
+7 E 0 1    縁
+7 0 1 E    瀞
+7 E 1 0    縐
+7 1 0 E    INVALID CHARACTER
